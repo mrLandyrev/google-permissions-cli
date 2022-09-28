@@ -1,0 +1,17 @@
+{
+  "name": "add_permission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "googleapis": "^108.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "add": "node main.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
