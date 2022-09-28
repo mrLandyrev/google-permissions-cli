@@ -16,5 +16,5 @@ npm ci
 
 usage:
 ```
-npm run add $fileId $email $role('writer' | 'reader' | 'owner', default='writer')
+npm run add $fileId $email $role(writer | reader | owner, default=writer)
 ```
